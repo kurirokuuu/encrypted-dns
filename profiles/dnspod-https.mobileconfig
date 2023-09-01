@@ -11,7 +11,7 @@
 				<string>HTTPS</string>
 				<key>ServerAddresses</key>
 				<array>
-					<string>223.5.5.5</string>
+					<string>120.53.53.53</string>
 					<string>1.12.12.12</string>
 				</array>
 				<key>ServerURL</key>
